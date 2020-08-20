@@ -2,7 +2,7 @@
 
 ### Lecture Notes
 - [Week 1 Slides](https://docs.google.com/presentation/d/1nRR_5SVK2ddNcw2kSAEyMUaf6jb_YigME9iMvrVhlbU/edit?usp=sharing)
-- [Week 1 Video]
+- [Week 1 Video](https://youtu.be/oXPSmBD1s_c)
 
 ### Notes from Class
 - [Demo of various Style Transfer models inside Runway](https://www.youtube.com/watch?v=hVnYoOe84cE)
