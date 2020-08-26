@@ -16,4 +16,22 @@ Play with the models in Runway
 	- What the inputs and outputs were
 	- What questions you have about the model
 	- Show us what you made
+	
+## Week 2
+
+### Lecture Notes
+- [Week 2 Slides](https://docs.google.com/presentation/d/17DHF72LWPM1W06nqAPMnNfvm8xQIrxhq8RXldeH-xX0/edit?usp=sharing)
+- [Week 2 Lecture]()
+
+### Notes and Links from Class
+- Andreas Refsgaard write-up
+- dataset_tools tutorials
+
+### Homework
+Get a hold of a dataset
+- Make your own!
+- Scrape your own! 
+- Find a premade one on the internet. 
+- Don’t care about datasets? Let me know if you want a premade one.
+
 
