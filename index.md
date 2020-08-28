@@ -21,7 +21,7 @@ Play with the models in Runway
 
 ### Lecture Notes
 - [Week 2 Slides](https://docs.google.com/presentation/d/17DHF72LWPM1W06nqAPMnNfvm8xQIrxhq8RXldeH-xX0/edit?usp=sharing)
-- [Week 2 Lecture]()
+- [Week 2 Lecture Video](https://youtu.be/UYfDlDFde_w)
 
 ### Notes and Links from Class
 - Andreas Refsgaard write-up
