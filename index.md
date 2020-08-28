@@ -24,7 +24,7 @@ Play with the models in Runway
 - [Week 2 Lecture Video](https://youtu.be/UYfDlDFde_w)
 
 ### Notes and Links from Class
-- Andreas Refsgaard write-up
+- [Andreas Refsgaard ml5.js interview](https://medium.com/processing-foundation/from-simple-to-advanced-ml5-js-70d6730b360b)
 - [dataset_tools tutorials](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq)
 
 ### Homework
