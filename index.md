@@ -25,7 +25,7 @@ Play with the models in Runway
 
 ### Notes and Links from Class
 - Andreas Refsgaard write-up
-- dataset_tools tutorials
+- [dataset_tools tutorials](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq)
 
 ### Homework
 Get a hold of a dataset
