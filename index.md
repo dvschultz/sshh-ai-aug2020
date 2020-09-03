@@ -40,6 +40,9 @@ Get a hold of a dataset
 - [Week 3 Slides](https://docs.google.com/presentation/d/1ie_x-uHm-kb9jQEOzU--15LrSP_liW4dtGE_2YRqtPE/edit?usp=sharing)
 - [Week 3 Video](https://youtu.be/5TVVJ59zXV8)
 
+### Notes from Class
+- [Import a .pkl file into Runway](https://youtu.be/pqVkLaBnTKI)
+
 ### Homework
 Train a model in Runway
 
