@@ -34,4 +34,13 @@ Get a hold of a dataset
 - Find a premade one on the internet. 
 - Don’t care about datasets? Let me know if you want a premade one.
 
+## Week 3
+
+### Lecture Notes
+- [Week 3 Slides](https://docs.google.com/presentation/d/1ie_x-uHm-kb9jQEOzU--15LrSP_liW4dtGE_2YRqtPE/edit?usp=sharing)
+- [Week 3 Video](https://youtu.be/5TVVJ59zXV8)
+
+### Homework
+Train a model in Runway
+
 
