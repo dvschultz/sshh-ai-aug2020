@@ -46,4 +46,14 @@ Get a hold of a dataset
 ### Homework
 Train a model in Runway
 
+## Week 4
+
+### Lecture Notes
+- [Week 4 Slides](https://docs.google.com/presentation/d/1W0ATJcSVF8zJ0wMOOEgAtfrCKA1RPHvn7ISTUwoksIQ/edit?usp=sharing)
+
+### Notes
+
+### Homework
+- [Sign Up](https://docs.google.com/spreadsheets/d/1FO5-nF47Im2e74vZOVLTzOnt3m9G8AyeeqtJuE0pGgc/edit?usp=sharing) for a Show & Tell spot
+
 
