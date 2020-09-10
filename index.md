@@ -50,6 +50,7 @@ Train a model in Runway
 
 ### Lecture Notes
 - [Week 4 Slides](https://docs.google.com/presentation/d/1W0ATJcSVF8zJ0wMOOEgAtfrCKA1RPHvn7ISTUwoksIQ/edit?usp=sharing)
+- [Week 4 Video](https://youtu.be/UccdZ__zdgs)
 
 ### Notes
 
