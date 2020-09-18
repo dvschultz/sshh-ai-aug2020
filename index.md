@@ -57,4 +57,15 @@ Train a model in Runway
 ### Homework
 - [Sign Up](https://docs.google.com/spreadsheets/d/1FO5-nF47Im2e74vZOVLTzOnt3m9G8AyeeqtJuE0pGgc/edit?usp=sharing) for a Show & Tell spot
 
+## Week 5
+
+### Lecture Notes
+- [Week 5 Slides](https://docs.google.com/presentation/d/1ULzubJOvMn5K0VFj-pGvb9KqjvoVdBWJg2wfE8kA-7w/edit?usp=sharing)
+
+### Notes
+- [Esteban Salgado’s Instagram feed](https://www.instagram.com/salyaku_ai/) (flat vectors in StyleGAN)
+- [Scott Eaton lecture](https://www.youtube.com/watch?v=TN7Ydx9ygPo) on his work
+
+### Homework
+- Please complete [the class survey](https://docs.google.com/forms/d/e/1FAIpQLSdefBO7RM_FdDtTno2cmX0c-g1HbL1oWQZrphwTqJtw2r9dHw/viewform?usp=sf_link)
 
