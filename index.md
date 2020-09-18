@@ -64,6 +64,7 @@ Train a model in Runway
 
 ### Notes
 - [Esteban Salgado’s Instagram feed](https://www.instagram.com/salyaku_ai/) (flat vectors in StyleGAN)
+- [Toonify yourself](https://toonify.justinpinkney.com/) by Justin Pinkney and Doron Adler (now offline)
 - [Scott Eaton lecture](https://www.youtube.com/watch?v=TN7Ydx9ygPo) on his work
 
 ### Homework
