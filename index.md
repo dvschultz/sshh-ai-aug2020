@@ -61,6 +61,7 @@ Train a model in Runway
 
 ### Lecture Notes
 - [Week 5 Slides](https://docs.google.com/presentation/d/1ULzubJOvMn5K0VFj-pGvb9KqjvoVdBWJg2wfE8kA-7w/edit?usp=sharing)
+- [Week 5 Video](https://youtu.be/fAFNfQXH7IA)
 
 ### Notes
 - [Esteban Salgado’s Instagram feed](https://www.instagram.com/salyaku_ai/) (flat vectors in StyleGAN)
