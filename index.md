@@ -65,6 +65,7 @@ Train a model in Runway
 
 ### Notes
 - [Esteban Salgado’s Instagram feed](https://www.instagram.com/salyaku_ai/) (flat vectors in StyleGAN)
+- [Memo Akten’s Learning to See](http://www.memo.tv/works/learning-to-see/)
 - [Spectrograms2Birds](https://staceywillcox.github.io/spect2birds/)
 - [Toonify yourself](https://toonify.justinpinkney.com/) by Justin Pinkney and Doron Adler (now offline)
 - [Scott Eaton lecture](https://www.youtube.com/watch?v=TN7Ydx9ygPo) on his work
